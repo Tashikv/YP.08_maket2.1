@@ -686,6 +686,10 @@ header .burger-menu {
         flex-direction: column; 
         align-items: center;  
     }
+    .pers button{
+        width: 30px;
+        height: 30px;
+    } 
     .forma .conteiner {
         width: 370px;
         height: 220px;
@@ -694,10 +698,12 @@ header .burger-menu {
     .forma h4 {
         font-size: 13px;
         margin-left: 15px;
+        width: 100%;
     }
     .forma h3 {
         font-size: 22px;
         text-align: center;
+        width: 100%;
     }
     .text2  {   
         width: 470px;
